@@ -1,3 +1,7 @@
-task 0. Where am I?
-task 1. What’s in there?
-task 2. There is no place like home
+<p align="left">
+  <img src="https://github.com/salimizel/alx-low_level_programming/blob/master/unnamed.png" width="10%">
+</p>
+
+<p align="center">
+  <img src="" width="20%">
+</p>
