@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="" width="20%">
+  <img src="https://github.com/salimizel/alx-system_engineering-devops/blob/master/image.png" width="20%">
 </p>
